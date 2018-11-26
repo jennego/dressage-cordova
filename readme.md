@@ -5,8 +5,8 @@ Cordova SPA using API built on Ruby on Rails.
 This is my first time using Cordova so we shall see. I chose it because Expo for React Native is painfully slow.
 
 To do
-- Make template/design 
 - Get emulators working 
+- Make template/design, figure out ui library 
 - Get basic views (without search) working in all platforms  
 - Get API working - show list, view test 
 
